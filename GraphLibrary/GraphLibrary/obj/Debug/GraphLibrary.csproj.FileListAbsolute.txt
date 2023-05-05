@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\progVStudio\GraphLibrary\GraphLibrary\bin\Debug\GraphLibrary.dll
+C:\Users\admin\Documents\progVStudio\GraphLibrary\GraphLibrary\bin\Debug\GraphLibrary.pdb
+C:\Users\admin\Documents\progVStudio\GraphLibrary\GraphLibrary\obj\Debug\GraphLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\progVStudio\GraphLibrary\GraphLibrary\obj\Debug\GraphLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\progVStudio\GraphLibrary\GraphLibrary\obj\Debug\GraphLibrary.dll
+C:\Users\admin\Documents\progVStudio\GraphLibrary\GraphLibrary\obj\Debug\GraphLibrary.pdb

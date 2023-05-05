@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\bin\Debug\Program.exe.config
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\bin\Debug\Program.exe
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\bin\Debug\Program.pdb
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\bin\Debug\GraphLibrary.dll
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\bin\Debug\GraphLibrary.pdb
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\obj\Debug\Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\obj\Debug\Program.csproj.CopyComplete
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\obj\Debug\Program.exe
+C:\Users\admin\Documents\progVStudio\GraphLibrary\Program\obj\Debug\Program.pdb
